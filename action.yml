@@ -1,5 +1,5 @@
 name: loop-gate
-description: Find where your agent looped, before it burns another run.
+description: Agent loop detector: find where an AI agent looped and burned tokens, before it runs again. Zero-dependency CLI.
 branding:
   icon: shield
   color: blue
