@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 chenhz01 — see LICENSE, LICENSE-SPEC and NOTICE
 """loop-gate — offline analysis of an agent trajectory for loop
 pathologies: stasis (identical steps repeated), exact repeats in a window,
 and oscillation cycles (A,B,A,B...), with a circuit-breaker suggestion.
